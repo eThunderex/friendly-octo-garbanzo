@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dbe5f731-6fb3-3ed3-8e37-57fd8dd69d4c",
+    "name": "eThundera",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
