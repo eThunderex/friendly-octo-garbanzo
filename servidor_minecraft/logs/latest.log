@@ -1,29 +1,43 @@
-[02:36:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:36:35] [ServerMain/INFO]: Loaded 1337 recipes
-[02:36:35] [ServerMain/INFO]: Loaded 1448 advancements
-[02:36:35] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:36:35] [Server thread/INFO]: Loading properties
-[02:36:35] [Server thread/INFO]: Default game type: SURVIVAL
-[02:36:35] [Server thread/INFO]: Generating keypair
-[02:36:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:36:35] [Server thread/INFO]: Using epoll channel type
-[02:36:35] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:36:35] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:36:35] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:36:35] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:36:35] [Server thread/INFO]: Preparing level "world"
-[02:36:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:36:38] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[02:36:38] [Server thread/INFO]: Time elapsed: 2524 ms
-[02:36:38] [Server thread/INFO]: Done (2.800s)! For help, type "help"
-[02:37:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:37:55] [Server thread/INFO]: eThundera[/127.49.182.177:46901] logged in with entity id 26 at (52.846798180282086, 63.0, -102.52646077827562)
-[02:37:55] [Server thread/INFO]: eThundera joined the game
-[02:39:08] [Server thread/INFO]: eThundera lost connection: Disconnected
-[02:39:08] [Server thread/INFO]: eThundera left the game
-[02:40:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:45:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:45:02] [ServerMain/INFO]: Loaded 1337 recipes
+[20:45:02] [ServerMain/INFO]: Loaded 1448 advancements
+[20:45:02] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:45:02] [Server thread/INFO]: Loading properties
+[20:45:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:45:02] [Server thread/INFO]: Generating keypair
+[20:45:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:45:02] [Server thread/INFO]: Using epoll channel type
+[20:45:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:45:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:45:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:45:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:45:02] [Server thread/INFO]: Preparing level "world"
+[20:45:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:45:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:45:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:45:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:45:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:45:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:45:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:45:05] [Server thread/INFO]: Time elapsed: 2834 ms
+[20:45:05] [Server thread/INFO]: Done (3.078s)! For help, type "help"
+[20:46:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:46:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@502cec75[id=dbe5f731-6fb3-3ed3-8e37-57fd8dd69d4c,name=eThundera,properties={}] lost connection: Disconnected
+[20:46:35] [Server thread/INFO]: eThundera[/127.106.133.218:40767] logged in with entity id 30 at (28.78832006077838, 63.0, -108.55478060013904)
+[20:46:36] [Server thread/INFO]: eThundera joined the game
+[20:46:40] [Server thread/INFO]: eThundera lost connection: Disconnected
+[20:46:40] [Server thread/INFO]: eThundera left the game
+[20:47:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:50:53] [Server thread/INFO]: eThundera[/127.106.133.218:48927] logged in with entity id 276 at (28.78832006077838, 63.0, -108.55478060013904)
+[20:50:53] [Server thread/INFO]: eThundera joined the game
+[20:51:27] [Server thread/INFO]: Kuumiix[/127.106.133.218:40555] logged in with entity id 564 at (6.5, 69.0, -4.5)
+[20:51:27] [Server thread/INFO]: Kuumiix joined the game
+[20:51:38] [Server thread/INFO]: [eThundera: Teleported Kuumiix to eThundera]
+[20:52:18] [Server thread/INFO]: Made Kuumiix a server operator
+[20:52:44] [Server thread/INFO]: [Not Secure] <Kuumiix> asdadasadasdasaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[20:52:51] [Server thread/INFO]: [Not Secure] <eThundera> te amo mucho
+[20:53:34] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:53:34] [Server thread/INFO]: skin eTHundera<--[HERE]
+[20:53:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:53:53] [Server thread/INFO]: skin Kuumiix<--[HERE]
+[20:54:36] [Server thread/INFO]: [eThundera: The difficulty has been set to Peaceful]
